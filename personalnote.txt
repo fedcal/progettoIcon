@@ -1,1 +1,3 @@
 # link dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=credits.csv
+# https://sparkbyexamples.com/python/pandas-convert-list-of-dictionaries-to-dataframe/
+#https://stackoverflow.com/questions/64900193/pandas-unpacking-a-list-of-dictionaries-in-cell-to-columns
