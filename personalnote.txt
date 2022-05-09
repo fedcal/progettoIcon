@@ -1,3 +1,6 @@
 # link dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=credits.csv
 # https://sparkbyexamples.com/python/pandas-convert-list-of-dictionaries-to-dataframe/
 #https://stackoverflow.com/questions/64900193/pandas-unpacking-a-list-of-dictionaries-in-cell-to-columns
+#https://www.imdb.com/interfaces/
+#https://grouplens.org/datasets/movielens/latest/
+#https://towardsdatascience.com/transformation-of-a-simple-movie-dataset-into-a-functional-recommender-system-89c2a5a668c
